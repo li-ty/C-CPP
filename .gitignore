@@ -1,3 +1,5 @@
 /.vs
-/Debug
-/C/Debug
+/.git
+/x64
+/C/x64
+/CPP/x64
